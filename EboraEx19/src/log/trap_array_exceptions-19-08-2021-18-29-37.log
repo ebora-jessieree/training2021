@@ -1,0 +1,2 @@
+INFO | 2021-08-19 06:29:37 | org.ssglobal.training.codes.TrapArray | Execute checkSizeInput 
+WARN | 2021-08-19 06:29:37 | org.ssglobal.training.codes.TrapArray | Input is a String. Integer expected
